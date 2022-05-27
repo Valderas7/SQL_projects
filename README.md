@@ -1,12 +1,10 @@
 # SQL_projects
 
-En este repositorio se recopilan los proyectos NO guiados que se piden para obtener la certificación de bases de datos relacionales `SQL`.
+En este repositorio se recopilan los archivos requeridos de los proyectos NO guiados que se piden para obtener la certificación de bases de datos relacionales `SQL` de la web `freeCodeCamp`.
 
 ------------
 
 ##### Resumen:
-- **anatomical pathology**: En este directorio se encuentran los códigos de entrenamiento e inferencia para la predicción de datos anatomopatológicos (tipo histológico, estadio anatomopatológico, sistema TNM y subtipo molecular).
+- **celestial_bodies**: Creación de base de datos sobre cuerpos celestiales del universo en la que se examina  tablas, columnas con restricciones de claves primarias, claves foráneas, valores no nulos, etc.
 
-- **clinical**: En este directorio se encuentran los códigos de entrenamiento e inferencia para la predicción de las variables clínicas más importantes: supervivencia general del paciente, recidivas y metástasis a distancia.
-
-- **correlations**: Aquí se encuentran los códigos de entrenamiento e inferencia de la correlación entre distintos grupos de datos (datos clínicos vs datos anatomopatológicos; datos anatomopatológicos vs mutaciones, etc).
+- **world_cup**: En este directorio se encuentran los códigos de entrenamiento e inferencia para la predicción de las variables clínicas más importantes: supervivencia general del paciente, recidivas y metástasis a distancia.
