@@ -1,7 +1,6 @@
 # SQL_projects
 
 En este repositorio se recopilan los archivos requeridos de los proyectos NO guiados que se piden para obtener la certificación de bases de datos relacionales `SQL` de la web `freeCodeCamp`.
-
 ------------
 
 ##### Resumen:
